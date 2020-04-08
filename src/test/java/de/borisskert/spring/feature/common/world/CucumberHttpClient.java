@@ -1,4 +1,4 @@
-package de.borisskert.spring.feature.world;
+package de.borisskert.spring.feature.common.world;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;

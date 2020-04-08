@@ -1,6 +1,6 @@
-package de.borisskert.spring.feature.steps;
+package de.borisskert.spring.feature.common.steps;
 
-import de.borisskert.spring.feature.world.CucumberHttpClient;
+import de.borisskert.spring.feature.common.world.CucumberHttpClient;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.springframework.beans.factory.annotation.Autowired;
