@@ -1,4 +1,4 @@
-# I need help!
+# ~~I need help!~~ Problem SOLVED!
 
 My goal is to run different cucumber step definitions with different spring profiles:
 
@@ -40,5 +40,7 @@ Each of them only active for its profile:
 | MyRealService    | "real"  | "This is for real!" | 
 | MyDebugService   | "debug" | "This is for debug" | 
 
-The cucumber tests are failing, the goal is to make them green...
-Thank you in advice.
+~~The cucumber tests are failing, the goal is to make them green...~~
+~~Thank you in advice.~~
+
+Tests are now green - problem solved.
